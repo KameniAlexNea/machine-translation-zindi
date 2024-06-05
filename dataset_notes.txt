@@ -1,0 +1,25 @@
+dataset
+https://huggingface.co/datasets/uvci/Koumankan_mt_dyu_fr
+
+https://www.webonary.org/dioula-bf/download/
+
+https://aclanthology.org/D18-1100.pdf  SwitchOut: an Efficient Data Augmentation Algorithm for Neural Machine Translation
+
+https://huggingface.co/MelioAI/dyu-fr-joeynmt/tree/main pre-trained backbone
+
+https://huggingface.co/oza75/nllb-600M-mt-french-bambara https://huggingface.co/datasets/oza75/mt-fr-bm-texts
+https://huggingface.co/datasets/oza75/bambara-tts
+
+
+
+### out of box
+https://huggingface.co/datasets/Malikeh1375/medical-question-answering-datasets
+
+Bible Corpus
+https://huggingface.co/datasets/bible-nlp/biblenlp-corpus
+
+https://huggingface.co/datasets/Helsinki-NLP/bible_para bible 
+
+Helsinki-NLP/opus-mt-yo-fr most closed language ?
+
+http://opus.nlpl.eu
